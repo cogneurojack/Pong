@@ -32,7 +32,7 @@ lefthit  = 1;
 %       Esc: quit game
 %
 
-%   Author: Jérôme Briot
+%   Author: JÃ©rÃ´me Briot
 %   Contact: dutmatlab@yahoo.fr
 %   Version : 1.0 - Sep 2006
 %             1.1 - Oct 2006 - improve ball management
@@ -72,7 +72,7 @@ t(2)=text(0.45, 0.75, 'O');
 t(3)=text(0.55, 0.75, 'N');
 t(4)=text(0.65, 0.75, 'G');
 t(5)=text(0.50, 0.55, 'A tribute to the eponym game by ATARI Inc.');
-t(6)=text(0.50, 0.35, 'by Jérôme Briot');
+t(6)=text(0.50, 0.35, 'by JÃ©rÃ´me Briot');
 t(7)=text(0.50, 0.25, 'dutmatlab@yahoo.fr');
 t(8)=text(0.50, 0.15, '(Hit a key)');
 
@@ -546,4 +546,5 @@ if Start >=300
 end
 end
 % End of the PONG function
+% Hello Github
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
